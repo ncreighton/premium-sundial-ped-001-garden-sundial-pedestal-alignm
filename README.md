@@ -1,0 +1,2 @@
+# premium-sundial-ped-001-garden-sundial-pedestal-alignm
+Tired of your garden sundial telling the wrong time because your pedestal shifted or your gnomon angle drifted? This Notion template turns alignment guesswork into a precise, repeatable system.  The Garden Sundial Pedestal Alignment and Gnomon Log solves the frustration of inconsistent shadows by providing a structured log to track pedestal level,
